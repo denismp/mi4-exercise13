@@ -1,0 +1,25 @@
+{
+  "name": "mi4-exercise13",
+  "version": "1.0.0",
+  "description": "Playing with Smart Contracts using Ethers.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denismp/mi4-exercise13.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denismp/mi4-exercise13/issues"
+  },
+  "homepage": "https://github.com/denismp/mi4-exercise13#readme",
+  "dependencies": {
+    "ethers": "^4.0.46",
+    "fs-extra": "^9.0.0",
+    "solc": "^0.6.4"
+  }
+}
