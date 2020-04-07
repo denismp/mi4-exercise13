@@ -76,4 +76,7 @@ What to Submit?
 Create a zip file (e.g. username-playing-smart-contracts-ethers-js.zip) holding the ethers-workflow.js file with the methods, a snapshot of the Ropsten Etherscan contract address and its transactions.
 Submit your zip file as homework at the course Website.
 
+NOTES:
+The document for this exercise is out-of-date.  Refer to the ethers-workflow.js file for the solution.
+
 
